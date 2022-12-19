@@ -8,8 +8,3 @@
 	url = https://github.com/darunabas/phyloregion
 	shallow = true
 	registered = true
-[submodule "predicts"]
-	path = predicts
-	url = https://github.com/rspatial/predicts
-	shallow = true
-	registered = false
